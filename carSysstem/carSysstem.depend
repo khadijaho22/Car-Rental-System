@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1656592594 source:f:\carsysstem\main.cpp
+	"CCustomer.h"
+	"CVehicle.h"
+	"CBUS.h"
+	<iostream>
+	<vector>
+
+1656592468 f:\carsysstem\include\ccustomer.h
+	<iostream>
+
+1656592468 f:\carsysstem\include\cvehicle.h
+	<vector>
+	<iostream>
+	"CCustomer.h"
+
+1656592680 source:f:\carsysstem\src\ccustomer.cpp
+	"CCustomer.h"
+	<iostream>
+
+1656592468 source:f:\carsysstem\src\cvehicle.cpp
+	"CVehicle.h"
+	<iostream>
+	<vector>
+
+1656592468 source:f:\carsysstem\src\cbus.cpp
+	"CBUS.h"
+
+1656592468 f:\carsysstem\include\cbus.h
+	<CVehicle.h>
+	<string>
+
+1656613865 source:f:\carrentalsystemm\carsysstem\main.cpp
+	"CCustomer.h"
+	"CVehicle.h"
+	"CBUS.h"
+	<iostream>
+	<vector>
+
+1656592468 f:\carrentalsystemm\carsysstem\include\ccustomer.h
+	<iostream>
+
+1656613125 f:\carrentalsystemm\carsysstem\include\cvehicle.h
+	<vector>
+	<iostream>
+	"CCustomer.h"
+
+1656592468 f:\carrentalsystemm\carsysstem\include\cbus.h
+	<CVehicle.h>
+	<string>
+
+1656612012 source:f:\carrentalsystemm\carsysstem\src\cbus.cpp
+	"CBUS.h"
+
+1656607309 source:f:\carrentalsystemm\carsysstem\src\ccustomer.cpp
+	"CCustomer.h"
+	<iostream>
+
+1656613126 source:f:\carrentalsystemm\carsysstem\src\cvehicle.cpp
+	"CVehicle.h"
+	<iostream>
+	<vector>
+
